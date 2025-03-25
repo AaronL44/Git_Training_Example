@@ -46,7 +46,6 @@
 ### FILE NAMES IN GIT DIRECTORIES:
 
 - <span style="color: yellow;">*./*</span> = Refers to the **current directory** in the file system. Used for working with files.
-<br>
 
 - <span style="color: yellow;">*.//*</span> = Location I was in previously.
 
