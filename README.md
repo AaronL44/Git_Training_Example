@@ -41,6 +41,8 @@
 
 - <span style="color: green;">*git diff HEAD*</span> = Shows changes to current branch since the last commit.
 
+- <span style="color: green;">*git remote -v*</span> = Checks the connection between remote and local repos.
+
 <br>
 
 ### FILE NAMES IN GIT DIRECTORIES:
