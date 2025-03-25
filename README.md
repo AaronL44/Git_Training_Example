@@ -2,7 +2,6 @@
 
 ### LIST OF USEFUL COMMANDS:
 - <span style="color: green;">*git init*</span> = Provides all basic git files needed to start.
-<br>
 
 - <span style="color: green;">*git remote add origin <(link)>*</span> = Links your local repository to a remote repository (e.g., GitHub).
   
